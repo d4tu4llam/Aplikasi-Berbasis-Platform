@@ -31,13 +31,13 @@ class _MyHomePageState extends State<MyHomePage> {
       "title": "Native App",
       "platform": "Android, iOS",
       "lang": "Java, Kotlin, Swift, C#",
-      "colors": Colors.red,
+      "color": Colors.red,
     },
     {
       "title": "Hybrid App",
       "platform": "Android, iOS, Web",
       "lang": "Javascript, dart",
-      "colors": Colors.grey,
+      "color": Colors.grey,
     },
   ];
   var titleInput = TextEditingController();
